@@ -16,7 +16,7 @@ import time
 # --- Config ---
 
 # My Gemini API Key (hardcoded as requested)
-API_KEY = "AIzaSyApLe0bcxZK5QNKNNZazT9syGM2BGGEvN0"
+API_KEY = "Enter yours here"
 
 try:
     genai.configure(api_key=API_KEY)
