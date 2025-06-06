@@ -105,4 +105,4 @@ If I were taking this further, I'd want to add:
 * **Proper Testing:** Write automated tests to make sure different parts work correctly.
 * **Easier Setup:** Maybe package it in a way that Tesseract/Poppler installation is smoother, or use cloud services that handle these dependencies.
 
-Let me know if you encounter any questions while running it, I would happily hop on a call to explain my thinking.
+Let me know if you encounter any questions while running it, I would happily explain.
